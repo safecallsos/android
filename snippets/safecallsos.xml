@@ -6,6 +6,7 @@
   <project path="lineage-sdk" name="safecallsos/android_lineage-sdk" />
   <project path="packages/apps/LineageParts" name="safecallsos/android_packages_apps_LineageParts" />
   <project path="packages/apps/Updater" name="safecallsos/android_packages_apps_Updater" />
+  <project path="packages/apps/Eleven" name="safecallsos/android_packages_apps_Eleven" />
   <project path="vendor/lineage" name="safecallsos/android_vendor_lineage" />
 
 </manifest>
