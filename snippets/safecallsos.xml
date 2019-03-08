@@ -9,4 +9,11 @@
   <project path="packages/apps/Eleven" name="safecallsos/android_packages_apps_Eleven" />
   <project path="vendor/lineage" name="safecallsos/android_vendor_lineage" />
 
+  <!-- Device -->
+  <project name="crdroidandroid/android_kernel_oneplus_sdm845" path="kernel/oneplus/sdm845" remote="github" revision="8.1" />
+  <project name="crdroidandroid/android_device_oneplus_enchilada" path="device/oneplus/enchilada" remote="github" revision="8.1" />
+  <project name="crdroidandroid/android_device_oneplus_sdm845-common" path="device/oneplus/sdm845-common" remote="github" revision="8.1" />
+  <project name="crdroidandroid/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="8.1" />
+  <project name="crdroidandroid/android_device_qcom_common" path="device/qcom/common" remote="github" revision="8.1" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
 </manifest>
